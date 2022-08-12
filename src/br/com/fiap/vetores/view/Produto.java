@@ -8,7 +8,6 @@ public class Produto {
 	
 	
 	public Produto(int qtd, double preco, double desconto) {
-		super();
 		this.qtd = qtd;
 		this.preco = preco;
 		this.desconto = desconto;
